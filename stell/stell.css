@@ -1,0 +1,534 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.img1{
+	background-image:url(stellimg/fam.jpeg);
+	padding-top: 55%;
+	background-repeat: no-repeat;
+	display: flex;
+	background-position: top;
+
+}
+.head{
+	color: white;
+	margin-top: -350px;
+}
+.head .hea{
+	margin-left: 40px;
+	color: yellow;
+
+}
+.head h1{
+	text-align: center;
+	color: yellow;
+}
+.head h6{
+	margin-top: -20px;	
+	color: blue;
+	text-align: center;	
+}
+.get button{
+	height: 25px;
+	width: 100px;
+	font-size: 8px;
+	margin-left: 50px;
+	margin-top: -50px;
+}
+
+.bot button{
+	height: 25px;
+	width: 100px;
+	margin-top: 20px;
+	font-size: 8px;
+	margin-left: 280px;
+	margin-bottom: 15px;
+}
+
+
+.con{
+	background: orange;
+	display: flex;
+	height: 120px;
+	width: 100%;
+}
+
+.con .have{
+	margin-top: 5px;
+	font-size: 12px;
+	margin-left: 40px;
+}
+.con .dont{
+	margin-top: 40px;
+	font-size: 20px;
+	margin-left: -60px;	
+}
+.con .req{	
+	margin-top: 40px;
+	font-size: 10px;
+	margin-left: 15px;
+
+}
+.req button{
+	height:40px;
+	font-size: ;
+}
+.con .out{
+	height: 30px;
+	margin-top: 90px;
+	font-size: 10px;
+	margin-left: -122px;	
+}
+.out button{
+	height: 30px;
+	font-size: 10px;
+}
+
+.auto{
+	height: 200px;
+	width: 100%;	
+}
+.auto{
+	display: flex;	
+	margin-left: -1px;
+}
+.auto .box1{
+	border: 2px solid none;
+	box-shadow: 0px 0px 20px ;
+	height: 170px;
+	width: 190px;
+	padding: 20px;
+	margin: 20px;
+	
+}
+.auto .box1 img{
+	margin-top: -16px;
+	margin-left: 5px;
+	height: 70px;
+	width: 120px;
+	padding-left: -20px;
+}
+
+.box1 h3{
+	margin-top: -25px;
+	font-size: 10px;
+	margin-left: 10px;
+}
+.box1 a button{	
+	font-size: 8px;
+	margin-left: 60px;
+}
+.box1 a .btn{
+	margin-top: -25px;
+}
+.box1 h6{
+	margin-top: -30px;
+	font-size: 7px;
+	margin-left: 2px;
+}
+.box1:hover{
+}
+
+
+.auto1{
+	height: 250px;
+	width: 100%;	
+}
+.auto1{
+	display: flex;	
+	margin-left: -1px;
+}
+.auto1 .box2{
+	border: 2px solid none;
+	box-shadow: 0px 0px 20px ;
+	height: 170px;
+	width: 190px;
+	padding: 20px;
+	margin: 20px;
+	
+}
+.auto1 .box2 img{
+	margin-top: -16px;
+	margin-left: 5px;
+	height: 70px;
+	width: 120px;
+	padding-left: -20px;
+}
+
+.box2 h3{
+	margin-top: -25px;
+	font-size: 10px;
+	margin-left: 10px;
+}
+.box2 a button{	
+	font-size: 8px;
+	margin-left: 60px;
+}
+.box2 a .btn{
+	margin-top: -25px;
+}
+.box2 h6{
+	margin-top: -30px;
+	font-size: 7px;
+	margin-left: 2px;
+}
+.box2:hover{
+}
+
+
+.story{
+	height: 820px;
+	width: 100%;
+	background: ghostwhite;
+}
+.story h5{
+	margin-left: 250px;
+	padding-top: 20px;
+}
+.story h2{
+	margin-left: 250px;
+
+}
+.story h6{
+	margin-left: 100px;
+}
+.story img{
+
+}
+.his{
+	font-size: 8px;
+}
+.him img{
+	height: 280px;
+	width: 170px;
+	margin-left: 10px;
+	margin-top: 30px;
+	margin-top: 20px;
+}
+
+.ourprojects{
+	height: 370px;
+	width: 100%;
+	background-image: url("stellimg/pgwork.jpg");
+}
+.ourprojects h5{
+	margin-left: 250px;
+	padding-top: 8px;
+	color: white;
+}
+.ourprojects h2{
+	margin-left: 225px;
+	color: white;
+}
+.qqq{
+	display: flex;
+
+}
+.www{
+	display: flex;
+}
+.ourprojects .box5 img{
+	height: 120px;
+	width: 130px;
+	margin-left: 170px;
+
+}
+.ourprojects .box6 img{
+	height: 120px;
+	width: 130px;
+	margin-left: 5px;
+}
+.ourprojects .box7 img{
+	height: 120px;
+	width: 130px;
+	margin-left: 170px;
+
+}
+.ourprojects .box8 img{
+	height: 120px;
+	width: 130px;
+	margin-left: 5px;
+}
+
+.comlogos{
+	background-color: ghostwhite;
+	height: 350px;
+	width: 100%;
+}
+.comlogos img{
+	margin-left: 150px;
+	height: 100px;
+	width: 100px;
+}
+
+
+.oteam h6{
+	margin-top: 25px;
+	margin-right: 100px;
+	text-align: center;
+
+}
+.oteam h1{
+	text-align: center;
+
+}
+
+.ot1{
+	display: flex;	
+	margin-left: 100px;
+}
+.ot1 .box-3{
+	border: 2px solid none;
+	box-shadow: 0px 0px 0px 0px;
+	background: ghostwhite;
+	height: 190px;
+	width: 120px;
+	padding: 5px;
+	margin: 10px;
+	margin-right: -2px;
+
+}
+.box-3 img{
+	height: 150px;
+	width: 120px;
+
+	margin-left: 0px;
+	margin-top: 1px;
+}
+.box-3 h4{
+	font-size: 10px;
+	text-align: center;
+}
+.box-3 h5{
+	margin-top: -20px;
+	font-size: 10px;
+	text-align: center;
+	margin-left: 0px;
+}
+
+
+
+.count{
+	height: 255px;
+	width: 100%;
+	background-color: orange;	
+}
+
+.coun1 .counter{
+	margin-left: 10px;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 35px;
+}
+.coun1 .text{
+	text-align: center;
+	font-size: 12px;
+}
+.coun2 .counter{
+	margin-left: 10px;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 35px;
+}
+.coun2 .text{
+	text-align: center;
+	font-size: 12px;
+
+}
+
+
+
+.test{
+	height: 690px;
+	width: 100%;
+	background-color: ghostwhite;
+}
+.test h6{
+	margin-top: 40px;
+	margin-left: 140px;	
+}
+.test h2{	
+	margin-left: 2px;
+	margin-left: 250px;
+}
+
+.tes{
+	font-size: 15px;
+	
+}
+.tes h4{
+	font-size: 18px;
+}
+.tes img{
+	height: 60px;
+	width: 60px;
+	margin-left:40px;
+}
+.st1{
+	box-shadow: 1px 1px 1px 0px;
+
+}
+.st2{
+	box-shadow: 1px 0px 1px 0px;
+}
+.st3{
+	box-shadow: 1px 1px 1px 0px;
+}
+
+.quality{
+	height: 240px;
+	width: 640px;
+	background-image: linear-gradient(navajowhite,black),url(stellimg/qali1.jpg);
+	margin-top: -190px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-blend-mode: hard-light;
+}
+
+.quality {
+	color: darkgreen;
+	padding-top: 20px;
+}
+
+.news{
+	height: 430px;
+	width: 100%;
+
+}
+.news h6{
+	font-size: 10px;
+}
+.news h2{
+	font-size: 25px;
+	margin-left: 255px;
+}
+.nebl img{
+	height: 145px;
+	width: 120px;
+	margin-left: 20px;
+}
+
+.ne1 h4{
+	font-size: 14px;
+}
+.ne1 p{
+	font-size: 10px;
+}
+.ne2 h4{
+	font-size: 14px;
+}
+.ne2 p{
+	font-size: 10px;
+}
+.ne3 h4{
+	font-size: 14px;
+}
+.ne3 p{
+	font-size: 10px;
+}
+
+
+.ne1{
+	box-shadow: 0px 0.5px 1px 0px;
+}
+.ne2{
+	box-shadow: 0px 0.5px 1px 0px;
+}
+.ne3{
+	box-shadow: 0px 0.5px 1px 0px;
+}
+.ne1 a button{
+	font-size: 12px;
+
+}
+.ne2 a button{
+	font-size: 12px;
+
+}
+.ne3 a button{
+	font-size: 12px;
+
+}
+.fot{
+	height: 150px;
+	width: 100%;
+	background-color: orange;
+}
+.fot1 img{
+	margin-top: 15px;
+	height: 70px;
+	width: 70px;	
+}
+.fo1 img h3{
+	font-size: 25px;
+}
+.fo1 p{
+	font-size: 10px;
+}
+
+@media screen and (max-width:769px){
+
+body{
+}
+
+
+.img1{
+	height: 310px;
+	width: 100%;
+}
+.head .get{
+
+	margin-top: -20px;
+	margin-left: 80px;
+
+}
+.con{
+	height: 200px;
+	width: 100%;
+
+}
+
+
+}
+
+@media screen and (max-width:400px) {
+
+body{
+}
+.img1{
+	height: 310px;
+	width: 100%;
+}
+.get button{	
+	margin-top: -50px;
+	margin-left: -50px;
+
+}
+.bot button{
+	margin-left: 100px;
+}
+
+.con{
+	height: 200px;
+	width: 100%;
+
+}
+
+.get button{
+	height: 25px;
+	width: 100px;
+	font-size: 8px;
+	margin-left: 50px;
+	margin-top: -50px;
+}
+
+.bot button{
+	height: 25px;
+	width: 100px;
+	margin-top: 20px;
+	font-size: 8px;
+	margin-left: 280px;
+	margin-bottom: 15px;
+}
+
+}
